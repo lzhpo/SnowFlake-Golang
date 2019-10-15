@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b7a06c0c-fe7f-4eb8-8f03-59817299d05b" name="默认更改列表" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+        <option value="Go Application" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="C:\SoftWare\Go" />
+  <component name="ProjectId" id="1QArCXpIFxzhF26zG3D5aeFIFRp" />
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go Application" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Module.GOPATH.is.expanded" value="false" />
+    <property name="configurable.Project.GOPATH.is.expanded" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Code\GolandCode\SnowFlake-Golang\1-easy-version\src\com\lzhpo" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Go Build.go build main.go">
+    <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="SnowFlake-Golang" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/com/lzhpo/src/main/main.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="BenchmarkMarshal in snowflake_test.go" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="SnowFlake-Golang" />
+      <working_directory value="$PROJECT_DIR$/com/lzhpo/src/snowflakeSource" />
+      <framework value="gobench" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/com/lzhpo/src/snowflakeSource/snowflake_test.go" />
+      <pattern value="^BenchmarkMarshal$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestGenerateDuplicateID in snowflake_test.go" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="SnowFlake-Golang" />
+      <working_directory value="$PROJECT_DIR$/com/lzhpo/src" />
+      <framework value="gotest" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/com/lzhpo/src/snowflake_test.go" />
+      <pattern value="^TestGenerateDuplicateID$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestNewNode in snowflake_test.go" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="SnowFlake-Golang" />
+      <working_directory value="$PROJECT_DIR$/com/lzhpo/src" />
+      <framework value="gotest" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/com/lzhpo/src/snowflake_test.go" />
+      <pattern value="^TestNewNode$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="snowflake_test.go" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="SnowFlake-Golang" />
+      <working_directory value="$PROJECT_DIR$/com/lzhpo/src/snowflakeSource" />
+      <framework value="gotest" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/com/lzhpo/src/snowflakeSource/snowflake_test.go" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build main.go" />
+        <item itemvalue="Go Test.snowflake_test.go" />
+        <item itemvalue="Go Test.BenchmarkMarshal in snowflake_test.go" />
+        <item itemvalue="Go Test.TestGenerateDuplicateID in snowflake_test.go" />
+        <item itemvalue="Go Test.TestNewNode in snowflake_test.go" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
